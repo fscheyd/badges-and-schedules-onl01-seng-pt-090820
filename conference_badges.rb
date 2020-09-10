@@ -21,3 +21,4 @@ def printer(attendees)
   result.each do |x|
     puts x 
   end
+end
