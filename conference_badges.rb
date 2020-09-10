@@ -12,7 +12,7 @@ def assign_rooms(speakers)
   return greet
 end
 
-def printer(input)
+def printer(input0ne)
   batch_badge_creator(input0ne)
   assign_rooms(input0ne)
 end
