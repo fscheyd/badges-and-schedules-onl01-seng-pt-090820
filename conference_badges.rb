@@ -12,7 +12,7 @@ def assign_rooms(speakers)
   return greet
 end
 
-def printer
-  puts batch_badge_creator
-  puts assign_rooms
+def printer(input)
+  puts batch_badge_creator(intput)
+  puts assign_rooms(input)
 end
