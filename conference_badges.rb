@@ -7,7 +7,7 @@ def batch_badge_creator(attendees)
 end
 
 def assign_rooms(attendees)
-  each_with_index.map puts"Hello, #{attendees}! You'll be assigned to room _____!"
+  each_with_index.map puts"Hello, #{attendees}! You'll be assigned to room #{ }!"
 end
 
 def printer
