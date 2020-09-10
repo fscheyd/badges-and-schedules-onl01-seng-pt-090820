@@ -7,7 +7,7 @@ def batch_badge_creator(attendees)
 end
 
 def assign_rooms(attendees, number)
-  attendees.map{|attendee|
+  attendees.map{|attendee| "Hello, #{attendees}! You'll be assigned to room !"
 end
 
 def printer
